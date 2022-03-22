@@ -1,0 +1,25 @@
+.header-title {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+
+.centered-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.width {
+    width: 100%;
+}
+
+.height {
+    height: 100%;
+}
+
+.content {
+    margin: auto;
+    
+}
